@@ -1,0 +1,4 @@
+$ git status
+$ git add .
+$ git commit -m "my first python program"
+$ git push
